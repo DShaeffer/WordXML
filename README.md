@@ -3,5 +3,5 @@ A package to manipulate Word XML documents. The templates folder includes an exa
 
 Current Features:
 - Remove sections after page breaks
-- Modify content controls
+- Populate custom xml part based content controls
 - Remove custom xml part based content controls
